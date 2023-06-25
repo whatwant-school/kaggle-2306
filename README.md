@@ -17,3 +17,7 @@ ICR - Identifying Age-Related Conditions
 ### Homework
 - Most Votes Top 5 살펴보고 오기
   - 다음 주에 코드 리뷰 방식으로 진행 예정
+
+### Link
+- [데이터 설명과 평가지표에 대하여 간략한 정리](https://github.com/sgr1118/ICR_kaggle_Challenge/tree/main)
+- [House Price Prediction 샘플 코드](https://github.com/sgr1118/EX/blob/main/%5BExp_03%5D_Kaggle_Challenge_(2019_kaggle_korea).ipynb)

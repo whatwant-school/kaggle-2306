@@ -65,4 +65,4 @@ files.upload()
 
 ---
 
-# (SELF-STUDY) Over-Sampling or Under-Sampling
+# [(SELF-STUDY) Over-Sampling or Under-Sampling](unbalanced-data.md)

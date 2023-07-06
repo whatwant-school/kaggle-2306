@@ -60,9 +60,9 @@ files.upload()
 
 ---
 
-# (SELF-STUDY) Decision Tree & Random Forests
+## (SELF-STUDY) Decision Tree & Random Forests
 
 
 ---
 
-# [(SELF-STUDY) Over-Sampling or Under-Sampling](unbalanced-data.md)
+## [(SELF-STUDY) Over-Sampling or Under-Sampling (불균형 데이터)](unbalanced-data.md)
